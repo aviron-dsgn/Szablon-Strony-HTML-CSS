@@ -1,0 +1,33 @@
+body
+{
+  background-color: #c7bf50;
+  font-family: sans-serif;
+}
+
+header
+{
+  background-color: white;
+  padding: 15px 15px;
+  border: 0px;
+  border-radius: 12px;
+  text-align: center;
+}
+
+header a
+{
+  text-decoration: none;
+  padding: 15px 15px;
+  color: black;
+  transition: 0.5s;
+}
+
+header a:hover
+{
+  background-color: black;
+  color: white;
+}
+
+hr
+{
+  color: white;
+}

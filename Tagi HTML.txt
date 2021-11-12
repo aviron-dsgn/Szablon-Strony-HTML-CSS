@@ -1,0 +1,14 @@
+<b> - bold, pogrubiony - <b>Przykład</b>
+<big> - big, wielki (tekst) - <big>Przykład</big>
+<body> - ciało dokumentu html - <body> zawartość twojej strony</body>
+<br> - przejście do następnej linii - Pierwsza linia tekstu<br>druga linia tekstu
+<center> centrowanie - <center>To zostanie wycentrowane</center>
+<h1, h2, h3, h4, h5, h6> - nagłówki
+<hr> - pozioma linia
+<img> - obrazek - <img src="obraz.jpg" alt="Tekst jeśli obraz się nie załaduje">
+<p> - akapit
+<small> - mniejszy rozmiar tekstu - <small>przykład</small>
+<strong> - większy rozmiar tekstu - <strong>Przykład</strong>
+<title> - tytuł dokumentu - <title>Tytuł strony</title> - Wyświetla się na pasku tytułowym przeglądarki
+<u> - podkreślenie - <u>przykład</u>
+
